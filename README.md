@@ -13,5 +13,5 @@ If there is any problem, use "sudo". Then, open http://localhost:3000 and the ap
 
 --
 
-This is a test application, developed and used for learn Ruby on Rails. It was made following the steps from stuk.io. If you need help contact me in [http://edgargomez.es/#contacts](http://edgargomez.es/#contacts)
+This is a test application, developed and used for learn Ruby on Rails. It was made following the steps from several tutorials. If you need help contact me in [http://edgargomez.es/#contacts](http://edgargomez.es/#contacts)
 
